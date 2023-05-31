@@ -1,0 +1,26 @@
+.clickable{
+  cursor: pointer;
+}
+.affiche{
+  height: 300px;
+}
+.filmImage {
+  max-width: 100%;
+}
+
+.cinemasMargsBottom {
+  margin-bottom: 15px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.tickets {
+  margin: 5px;
+  width: 40px;
+}
+
+.checkFormMar {
+  margin-top: 10px;
+}
